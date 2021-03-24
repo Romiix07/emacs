@@ -1,0 +1,4 @@
+cp .emacs ~/.
+cp -r .script ~/.
+cp -r .emacs.d ~/.
+echo "Add a MAIL variable -> your_login@student.42.fr"
